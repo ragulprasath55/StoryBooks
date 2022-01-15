@@ -1,2 +1,2 @@
 # StoryBooks
-Application to add and see all users stories if they have made it public
+Application to add user stories and see all users stories if they have made it public
